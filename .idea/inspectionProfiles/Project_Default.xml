@@ -1,0 +1,6 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="$debug_swf$" level="ERROR" enabled_by_default="$debug_swf$" />
+  </profile>
+</component>

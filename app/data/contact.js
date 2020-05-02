@@ -23,12 +23,12 @@ const data = [
     icon: faInstagram,
   },
   {
-    link: 'https://www.linkedin.com/in/michaelldangelo',
+    link: 'https://www.linkedin.com/in/Nilutpalldangelo',
     label: 'LinkedIn',
     icon: faLinkedinIn,
   },
   {
-    link: 'https://angel.co/michael-d-angelo',
+    link: 'https://angel.co/Nilutpal-d-angelo',
     label: 'Angel List',
     icon: faAngellist,
   },
@@ -38,7 +38,7 @@ const data = [
     icon: faTwitter,
   },
   {
-    link: 'mailto:michael.l.dangelo@gmail.com',
+    link: 'mailto:Nilutpal.l.dangelo@gmail.com',
     label: 'Email',
     icon: faEnvelope,
   },
